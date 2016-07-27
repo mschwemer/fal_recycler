@@ -1,5 +1,5 @@
 {
-  "name": "in2code/fal-recycler",
+  "name": "marcusschwemer/fal-recycler",
   "type": "typo3-cms-extension",
   "description": "Provides the FAL recycler for TYPO3 6.2.x",
   "homepage": "https://github.com/mschwemer/fal_recyler",
