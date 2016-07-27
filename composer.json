@@ -1,0 +1,41 @@
+{
+  "name": "in2code/fal-recycler",
+  "type": "typo3-cms-extension",
+  "description": "Provides the FAL recycler for TYPO3 6.2.x",
+  "homepage": "https://github.com/mschwemer/fal_recyler",
+  "keywords": [
+    "TYPO3",
+    "extension",
+    "FAL",
+    "recycler"
+  ],
+  "authors": [
+    {
+      "name": "Marcus Schwemer",
+      "role": "Developer",
+      "homepage": "http://www.typo3worx.eu"
+    },
+    {
+      "name": "Dominique Kreemers",
+      "role": "Developer",
+      "homepage": "http://www.in2code.de"
+    }
+  ],
+  "license": "GPL-2.0+",
+  "support": {
+    "issues": "https://github.com/mschwemer/fal_recyler/issues"
+  },
+  "version": "1.0.0",
+  "require": {
+    "typo3/cms-core": ">=6.2.0,<6.3",
+  },
+  "replace": {
+    "fal-recycler": "self.version",
+    "typo3-ter/fal-recycler": "self.version"
+  },
+  "autoload": {
+    "psr-4": {
+      "Incode\\FalRecycler\\": "typo3conf/ext/fal_recycler/Classes/"
+    }
+  }
+}
