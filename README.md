@@ -6,8 +6,7 @@
  
  Go to the Extension Manager and upload the extension "fal_recycler". 
  
- It is not available in the TYPO3 Extension Repository (TER) yet. As TYPO3 6.2 is EOL in spring 2017, I will not add it
- to the TER
+ The extension is now also available via TER and Packagist
  
 ## Configuration
  
