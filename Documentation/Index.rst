@@ -46,8 +46,7 @@ Installation
 * Download the extension from github as zip or the blogpost at http://www.typo3worx.eu/
 * Go to the Extension Manager and upload the extension "fal_recycler".
 
-It is not available in the TYPO3 Extension Repository (TER) yet. As TYPO3 6.2 is EOL in spring 2017, I will not add it
-to the TER
+It is also avalable in the TER and via packagist.
 
 Configuration
 =============
